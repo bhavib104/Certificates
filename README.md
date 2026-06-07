@@ -10,7 +10,7 @@ This repository contains my certifications, internship documents, and profession
 
 ## Industry & Professional Programs
 
-- [L&T Immersion Program Certificate — L&T Chennai](./Lnt_Certificate.png)
+- [L&T Immersion Program Certificate — L&T Chennai](./LnT_Certificate.png)
 
 Industry exposure and professional immersion experience at Larsen & Toubro, Chennai.
 
